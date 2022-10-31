@@ -1,0 +1,78 @@
+.frame7 {
+  padding: 130px 100px 80px 100px;
+}
+.frame7TextContainer {
+  background: #0a2640;
+  border-radius: 12px;
+  position: relative;
+  height: 341px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.headerEclipse {
+  position: absolute;
+  background-color: #1c3d5b;
+  z-index: 23;
+  width: 45%;
+  border-radius: 12px 0px 1px 1911px / 0px 0px 411px 971px;
+  height: 70%;
+  right: 0px;
+  top: 0;
+}
+.display{
+    display: flex;
+
+  flex-direction: column;
+
+    z-index: 231;
+}
+
+.display1{
+    display: flex;
+
+  justify-content: center;
+  align-items: center;
+    z-index: 731;
+}
+
+.display1 h1{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+
+text-align: center;
+color: #FFFFFF;
+}
+
+.display2 input{
+    background: #FFFFFF;
+    border: 0px;
+    margin: 20px;
+    border-radius: 240px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    width: 50%;
+    padding: 16px 18px;
+    margin-top: 0px;
+}
+.display2  button{
+    background: #FFFFFF;
+border: 0px;
+width: 30%;
+border-radius: 240px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+padding: 16px 18px;
+background: #65E4A3;
+color: #0A2640;
+}

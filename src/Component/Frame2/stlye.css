@@ -1,0 +1,22 @@
+.frame2{
+  margin: 0 auto;
+  width: 60%;
+}
+.frame2 p{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+color: #777777;
+}
+
+.frame2 h2{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 72px;
+    color: #000000;
+    margin: 0px;
+    }

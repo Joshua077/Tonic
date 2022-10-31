@@ -1,0 +1,52 @@
+.frame3{
+    margin-top: 105px;
+    padding: 80px 150px;
+    color: white;
+    background: #0A2640
+}
+
+.textContainer{
+    text-align: center;
+}
+.textContainer p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #F1F1F1;
+}
+.textContainer h2{
+    text-align: center;
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+margin: 0px !important;
+}
+.numberContainer h1 {
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 56px;
+color: #4FE9A4;
+margin-bottom: 38px;
+}
+
+.numberContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+
+.numberContainer span{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+
+
+}

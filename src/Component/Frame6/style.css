@@ -1,0 +1,68 @@
+.frame6 {
+  padding: 90px 0px 109px 0px;
+  background: #0a2640;
+  
+}
+
+.frame6TextContainer,
+.frame6ImageContainer {
+  margin: 0 auto;
+  width: 60%;
+}
+.frame6TextContainer p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+   
+width: 95%;
+    font-size: 20px;
+    line-height: 42px;
+    color: #F1F1F1;
+}
+.frame6TextContainer h2 {
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+color: #FFFFFF;
+margin: 0px !important;
+}
+
+.frame6ImageContainer {
+  margin-top: 30px;
+}
+
+.frame6ImageContainer1,
+.frame6ImageContainer2,
+.frame6ImageContainer3 {
+  display: flex;
+  margin-top: 70px;
+}
+.frame6ImageContainer1 h1,
+.frame6ImageContainer2 h1,
+.frame6ImageContainer3 h1 {
+  margin-top: 0px !important;
+  font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+
+color: #FFFFFF;
+}
+
+.frame6ImageContainer1 p,
+.frame6ImageContainer2 p,
+.frame6ImageContainer3 p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #F1F1F1;
+    width: 110% !important;
+}
+.frame6ImageContainer1 img,
+.frame6ImageContainer2 img,
+.frame6ImageContainer3 img {
+  margin-right: 70px !important;
+}

@@ -1,0 +1,81 @@
+.header {
+  padding: 50px 100px 130px 100px;
+  background-color: #0a2640;
+ 
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  
+  align-content: center;
+  margin-bottom: 18px;
+}
+.tab {
+  display: flex;
+}
+.tab p {
+  margin-right: 65px;
+  font-family: 'Open Sans';
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+color: #FFFFFF;
+}
+.buttonHeader {
+  margin-right: 0px !important;
+  padding: 8px 16px;
+  background: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 24px;
+  text-align: center;
+  width: 128px;
+height: 50px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+color: #0A2640;
+}
+.headerTextContainer{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   padding: 0 20px;
+}
+.headerTextContainer p , .headerTextContainer h1{
+text-align: center;
+}
+
+.headerTextContainer p{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+color: #F1F1F1;
+}
+.headerTextContainer h1 {
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 84px;
+color: #FFFFFF;
+margin: 0px;
+}
+.logo h1{
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 43.25px;
+  line-height: 34px;
+  color: #FFFFFF;
+  margin: 0px;
+  margin-top: 12px;
+}
+.Logo{
+  margin-right: 19px;
+}

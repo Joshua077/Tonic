@@ -1,7 +1,6 @@
 .frame6 {
   padding: 90px 0px 109px 0px;
   background: #0a2640;
-  
 }
 
 .frame6TextContainer,
@@ -10,22 +9,22 @@
   width: 60%;
 }
 .frame6TextContainer p {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 400;
-   
-width: 95%;
-    font-size: 20px;
-    line-height: 42px;
-    color: #F1F1F1;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+
+  width: 95%;
+  font-size: 20px;
+  line-height: 42px;
+  color: #f1f1f1;
 }
 .frame6TextContainer h2 {
-    font-family: 'Manrope';
-font-style: normal;
-font-weight: 400;
-font-size: 48px;
-color: #FFFFFF;
-margin: 0px !important;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  color: #ffffff;
+  margin: 0px !important;
 }
 
 .frame6ImageContainer {
@@ -42,27 +41,77 @@ margin: 0px !important;
 .frame6ImageContainer2 h1,
 .frame6ImageContainer3 h1 {
   margin-top: 0px !important;
-  font-family: 'Manrope';
-font-style: normal;
-font-weight: 400;
-font-size: 28px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
 
-color: #FFFFFF;
+  color: #ffffff;
 }
 
 .frame6ImageContainer1 p,
 .frame6ImageContainer2 p,
 .frame6ImageContainer3 p {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 32px;
-    color: #F1F1F1;
-    width: 110% !important;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #f1f1f1;
+  width: 110% !important;
 }
 .frame6ImageContainer1 img,
 .frame6ImageContainer2 img,
 .frame6ImageContainer3 img {
   margin-right: 70px !important;
+}
+
+@media screen and (max-width: 972px) {
+  .frame6TextContainer p {
+    font-size: 15px;
+    line-height: 32px;
+  }
+
+  .frame6ImageContainer1 p,
+  .frame6ImageContainer2 p,
+  .frame6ImageContainer3 p {
+    font-size: 15px;
+    line-height: 32px;
+  }
+  .frame6TextContainer h2 {
+    font-size: 35px;
+    line-height: 60px;
+  }
+
+  .frame6ImageContainer1 img,
+.frame6ImageContainer2 img,
+.frame6ImageContainer3 img {
+ display: none;
+}
+
+}
+
+@media screen and (max-width: 577px) {
+  .frame6TextContainer p {
+    font-size: 15px;
+    line-height: 32px;
+    width: 110%;
+  }
+  .frame6ImageContainer1 p,
+  .frame6ImageContainer2 p,
+  .frame6ImageContainer3 p {
+    font-size: 15px;
+    line-height: 32px;
+  }
+  
+  .frame6TextContainer h2 {
+    font-size: 21px;
+    line-height: 60px;
+  }
+  .frame6ImageContainer1 h1,
+  .frame6ImageContainer2 h1,
+  .frame6ImageContainer3 h1 {
+    font-size: 21px;
+    line-height: 60px;
+  }
 }

@@ -22,3 +22,11 @@
     width: 25%
    
   }
+
+  @media screen and (max-width: 1045px) {
+    .frame1{
+      margin: -37px auto;
+      
+      
+  }
+ }

@@ -76,3 +76,9 @@ padding: 16px 18px;
 background: #65E4A3;
 color: #0A2640;
 }
+@media screen and (max-width: 954px) {
+
+  .frame7 {
+    display: none;
+  } 
+}

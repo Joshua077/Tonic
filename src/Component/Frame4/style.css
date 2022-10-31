@@ -21,3 +21,26 @@
       color: #000000;
       margin: 0px !important;
       }
+
+      @media screen and (max-width: 972px) {
+        .frame4 p{
+          font-size: 15px;
+          line-height: 32px;
+         
+          }
+
+            
+  .frame4 h2{
+    font-size: 35px;
+    line-height: 60px;
+    }
+     }
+
+     @media screen and (max-width: 577px) {
+     
+          
+.frame4 h2{
+  font-size: 21px;
+  line-height: 60px;
+  }
+   }

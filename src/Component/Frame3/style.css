@@ -50,3 +50,45 @@ line-height: 36px;
 
 
 }
+
+@media screen and (max-width: 1145px) {
+    .textContainer h2{
+    font-size: 25px;
+    line-height: 40px;
+    margin: 0px !important;
+    }
+    .numberContainer  {
+   display:none;
+    
+    }
+
+   
+    
+ }
+
+ @media screen and (max-width: 672px) {
+    .textContainer h2{
+    font-size: 25px;
+    line-height: 40px;
+    margin: 0px !important;
+    }
+ }
+
+
+ @media screen and (max-width: 563px) {
+    .textContainer h2{
+    font-size: 17px;
+    line-height: 29px;
+    margin: 0px !important;
+    }
+
+    .frame3 {        
+        padding: 80px 15px;
+
+    }
+    .textContainer p{
+        font-size: 15px;
+        line-height: 21px;
+    }
+ }
+ 

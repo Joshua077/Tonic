@@ -87,3 +87,30 @@ line-height: 28px;
 color: #777777;
 margin-top: -12px;
 }
+
+@media screen and (max-width: 954px) {
+
+    .footerContainer2,
+    .footerContainer3,
+    .footerContainer4 {
+    display: none;
+    /* margin-right: 5px; */
+    }
+
+    .footerContainer1 p {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+        color: #777777;
+        width: 100%;
+        margin-top: 41px;
+        margin-bottom: 41px;
+    }
+    .footerContainer1 {
+        width: 126%;
+      
+    }
+    
+  }

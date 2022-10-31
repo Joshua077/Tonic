@@ -79,3 +79,54 @@ margin: 0px;
 .Logo{
   margin-right: 19px;
 }
+
+@media screen and (max-width: 1045px) {
+   .tab {
+    display: none;
+  }
+  .header{
+    padding: 30px;
+    padding-bottom: 61px;
+  }
+  .headerTextContainer h1 {
+    font-size: 42px;
+line-height: 68px;
+  }
+  .headerTextContainer p{
+ 
+    font-size: 18px;
+    line-height: 32px;
+    
+    }
+
+}
+@media screen and (max-width: 665px) {
+
+ .headerTextContainer h1 {
+   font-size: 24px;
+line-height: 38px;
+
+ }
+ .headerTextContainer p{
+ 
+  font-size: 14px;
+  line-height: 28px;
+  margin-top: 9px;
+  }
+
+  .header{
+    padding: 30px;
+    padding-bottom: 51px;
+  }
+}
+
+@media screen and (max-width: 423px) {
+
+  .headerTextContainer h1 {
+    font-size: 18px;
+ line-height: 30px;
+ margin-top: 16px;
+margin-bottom: 45px;
+  }
+
+ }

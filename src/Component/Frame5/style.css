@@ -30,3 +30,11 @@ color: #777777;
     height: 80%;
      
    } */
+
+
+   @media screen and (max-width: 1271px) {
+    .frame5{
+     display:none;
+      
+  }
+ }

@@ -14,14 +14,22 @@ function App() {
   return (
     <div className="App">
       <Heeader/>
-    <Frame1/>
+      <Frame1/>
+      <Frame2/>
+      <Frame3/>
+      <Frame4/>
+      <Frame5/>
+      <Frame6/>
+      <Frame7/>
+      <Footer/>
+    {/* <Frame1/>
     <Frame2/>
     <Frame3/>
     <Frame4/>
     <Frame5/>
     <Frame6/>
     <Frame7/>
-    <Footer/>
+    <Footer/> */}
     </div>
   );
 }
